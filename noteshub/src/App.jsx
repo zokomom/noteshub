@@ -1,8 +1,8 @@
 import { useState } from 'react';
-import Navbar from '/home/user/noteshub/noteshub/src/Navbar.jsx';
-import Hero from '/home/user/noteshub/noteshub/src/Hero.jsx';
-import Filter from '/home/user/noteshub/noteshub/src/Filter.jsx';
-import NotesList from '/home/user/noteshub/noteshub/src/NotesList.jsx';
+import Navbar from './Navbar.jsx';
+import Hero from './Hero.jsx';
+import Filter from './Filter.jsx';
+import NotesList from './NotesList.jsx';
 import './App.css';
 
 function App() {
